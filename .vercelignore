@@ -1,0 +1,5 @@
+.git
+/builds
+/releases
+*.bat
+*.sh
